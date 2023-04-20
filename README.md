@@ -25,3 +25,6 @@ construa um algoritmo que, tendo como dados de entrada o preço de um produto e 
 10 a 20 centro-oeste
 25 a 30 nordeste
 - resolução no arquivo codigo.py
+## exercicio 2.2 pagina 46
+escreva um algoritmo que leia tres valores inteiros e diferentes e mostre-os em ordem decrescente. utilize para tal uma seleção encadeada.
+- resolução no arquivo number.py
