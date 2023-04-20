@@ -13,6 +13,7 @@ Construa um algoritmo que calcule a quantidade de latas de tinta necessárias e 
 - a área da base é(PI * pot(R,2))
 - a área lateral é altura * comprimento: (2 * PI *R * H)
 - sendo que R(raio) e H(altura) são dados de entrada e PI é uma constante de valor conhecido: 3,14. 
+resolução no arquivo main.py
 ## exercicio pag 44
 construa um algoritmo que, tendo como dados de entrada o preço de um produto e seu codigo de origem, mostre o preço junto de sua procedencia, Caso o codigo não seja de nenhum dos especificados, o produto deve ser encarado como importado. Siga os codigos a seguir.
 - 1 sul
@@ -23,3 +24,4 @@ construa um algoritmo que, tendo como dados de entrada o preço de um produto e 
 - 7 a 9 sudeste
 10 a 20 centro-oeste
 25 a 30 nordeste
+resolução no arquivo codigo.py
